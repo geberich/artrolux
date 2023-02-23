@@ -28,7 +28,7 @@ if (!empty($_POST)) {
         }
     }
 
-    header("Location: success.html");
+    header("Location: ./success.html");
     die();
 }
 
