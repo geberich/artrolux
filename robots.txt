@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geberich.github.io/artrolux/sitemap.xml
